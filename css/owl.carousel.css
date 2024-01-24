@@ -22,7 +22,7 @@
     content: ".";
     display: block;
     clear: both;
-    visibility: hidden;
+    visibility: visible;
     line-height: 0;
     height: 0;
 }
